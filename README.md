@@ -17,7 +17,7 @@ Company confidential information is not displayed. All images are either custom 
 ![image](DVS.png)
 
 ## Ripple Based Control 
-![image](RippleControl1.png)
+![image](RippleControl.png)
 
 ## Ripple Based Control
 ![image](RippleBasedControl.png)

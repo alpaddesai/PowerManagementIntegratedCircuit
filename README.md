@@ -28,5 +28,5 @@ Company confidential information is not displayed. All images are either custom 
 ## Energy Harvester
 ![image](EnergyHarvesting.png)
 
-## Power COnversion 
+## Power Conversion 
 ![image](PowerConversion.png)

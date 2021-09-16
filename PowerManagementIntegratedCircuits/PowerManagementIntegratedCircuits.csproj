@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Slide1.JPG" />
+    <None Remove="Slide2.JPG" />
+    <None Remove="Slide3.JPG" />
+    <None Remove="Slide4.JPG" />
+    <None Remove="Slide5.JPG" />
+    <None Remove="Slide6.JPG" />
+    <None Remove="Slide7.JPG" />
+    <None Remove="Slide8.JPG" />
+    <None Remove="Slide9.JPG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Slide1.JPG" />
+    <Resource Include="Slide2.JPG" />
+    <Resource Include="Slide3.JPG" />
+    <Resource Include="Slide4.JPG" />
+    <Resource Include="Slide5.JPG" />
+    <Resource Include="Slide6.JPG" />
+    <Resource Include="Slide7.JPG" />
+    <Resource Include="Slide8.JPG" />
+    <Resource Include="Slide9.JPG" />
+  </ItemGroup>
+
+</Project>

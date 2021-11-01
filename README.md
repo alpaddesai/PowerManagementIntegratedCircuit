@@ -29,7 +29,7 @@ Company confidential information is not displayed. All images are either custom 
 ![image](EnergyHarvesting.png)
 
 ## Power Conversion 
-![image](PowerConversion.png)
+![image](SIMO.png)
 
 ## Power LDO 
 ![image](VirtuosoImage.png)

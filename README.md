@@ -30,7 +30,7 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Single inductor multiple output
 ![image](SIMO.png)
-####reference: Analog Circuit Design> power management, Michiel Steyaert
+#### reference: Analog Circuit Design> power management, Michiel Steyaert
 ## Power LDO 
 ![image](VirtuosoImage.png)
 ![image](VDCImage.png)

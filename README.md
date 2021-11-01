@@ -28,7 +28,7 @@ Company confidential information is not displayed. All images are either custom 
 ## Energy Harvester
 ![image](EnergyHarvesting.png)
 
-## Power Conversion 
+## Single inductor multiple output
 ![image](SIMO.png)
 
 ## Power LDO 

@@ -34,7 +34,7 @@ Company confidential information is not displayed. All images are either custom 
 ## Power LDO 
 ![image](VirtuosoImage.png)
 ![image](VDCImage.png)
-### Reference: Capacitor Free LDO 180nm CMOS for hearing aids - Yoni Yosef-Hay, Pere Llimos Muntal, Dennis landLarsen , Ivan Jorgensen, Denmark.
+#### Reference: Capacitor Free LDO 180nm CMOS for hearing aids - Yoni Yosef-Hay, Pere Llimos Muntal, Dennis landLarsen , Ivan Jorgensen, Denmark
 
 ## DC Switchers
 ![image](DCSwitchers.png)

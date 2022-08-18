@@ -39,4 +39,4 @@ Company confidential information is not displayed. All images are either custom 
 ## DC Switchers
 ![image](DCSwitchers.png)
 
-Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign
+Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign and https://github.com/alpaddesai/MedicalDevices.

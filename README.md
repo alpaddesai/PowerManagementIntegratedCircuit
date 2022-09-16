@@ -42,4 +42,7 @@ Company confidential information is not displayed. All images are either custom 
 ## In class
 ![image](kaptest.jpg)
 
+## Admission letter
+![image](admissionletter.jpg)
+
 Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign 

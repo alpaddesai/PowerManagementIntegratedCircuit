@@ -45,4 +45,7 @@ Company confidential information is not displayed. All images are either custom 
 ## Admission letter
 ![image](admissionletter.jpg)
 
+## GMAT exam
+![image](GMATImage5.jpg)
+
 Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign 

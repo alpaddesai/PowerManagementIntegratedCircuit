@@ -48,4 +48,6 @@ Company confidential information is not displayed. All images are either custom 
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign 

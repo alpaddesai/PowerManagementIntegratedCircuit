@@ -50,4 +50,6 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](USCopyrightCertificate.png)
 
+!image](Ethics.jpg)
+
 Additional details: https://github.com/alpaddesai/MSECE_ArchitecturalDesign 

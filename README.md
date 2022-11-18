@@ -48,6 +48,9 @@ Company confidential information is not displayed. All images are either custom 
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
+## Exam 
+![image](CFAExam.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)

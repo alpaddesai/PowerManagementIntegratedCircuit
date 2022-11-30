@@ -22,7 +22,7 @@ Company confidential information is not displayed. All images are either custom 
 ## Ripple Based Control
 ![image](RippleBasedControl.png)
 
-## Battery Charger 
+## Battery Charger 2022
 ![image](BatteryCharger.png)
 
 ## Energy Harvester

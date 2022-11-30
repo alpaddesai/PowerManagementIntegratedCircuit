@@ -39,9 +39,6 @@ Company confidential information is not displayed. All images are either custom 
 ## DC Switchers
 ![image](DCSwitchers.png)
 
-## In class
-![image](kaptest.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)

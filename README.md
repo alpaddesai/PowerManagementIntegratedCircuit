@@ -43,4 +43,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](Ethics.jpg)
 
-Additional details: https://github.com/alpaddesai/ArchitecturalDesign2022
+Additional details: https://github.com/alpaddesai/ArchitecturalDesign

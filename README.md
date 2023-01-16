@@ -1,4 +1,4 @@
-# Power Management Integrated Circuits 2022
+# Power Management Integrated Circuits 
 
 The project provides an overview of Power Management Integrated Circuits. Please download the executable in https://github.com/alpaddesai/PowerManagementIntegratedCircuits/releases for details. 
 
